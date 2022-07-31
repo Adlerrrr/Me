@@ -1,5 +1,5 @@
 <template>
-    <div class="container">
+    <div class="">
         <div class="info">
             <img src="../assets/img/eu.jpg" alt="Wilson Adler Junior">
         </div>

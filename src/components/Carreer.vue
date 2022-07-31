@@ -1,5 +1,5 @@
 <template>
-    <div class="container">
+    <div class="">
         <div>
             <h1 class="name">Carreer</h1>
             <p class="txtP">{{ carrerEn }}</p>
@@ -54,9 +54,6 @@ export default {
 </script>
 
 <style scoped>
-div {
-    width: 750px;
-}
 
 .container {
     padding: 2%;
@@ -92,6 +89,5 @@ ul {
 
 .txtP{
 
-line-height: 150%;
 }
 </style>
